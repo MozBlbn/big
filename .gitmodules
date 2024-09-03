@@ -1,0 +1,3 @@
+[submodule "small-1"]
+	path = small-1
+	url = https://github.com/MozBlbn/small-1.git
