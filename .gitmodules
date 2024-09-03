@@ -2,3 +2,7 @@
 	path = small-1
 	url = https://github.com/MozBlbn/small-1.git
 	branch = main
+[submodule "small-2"]
+	path = small-2
+	url = https://github.com/MozBlbn/small-2.git
+	branch = main
